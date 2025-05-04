@@ -12,4 +12,4 @@ Bem-vindo ao nosso portfólio! Aqui você encontra alguns dos sites e projetos d
 
 > **Descrição**: Landing page institucional responsiva com animações, parallax e design moderno, desenvolvida com Next.js e Tailwind CSS.
 
-🔗 Acesse: [uidex.com.br](https://uidex.com.br)
+🔗 Acesse: [uidex-page.vercel.app](https://uidex-page.vercel.app/)
