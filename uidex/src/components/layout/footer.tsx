@@ -71,7 +71,7 @@ const Footer = () => {
 			</div>
 
 			{/* Copyright */}
-			<div className="mt-8 border-t border-muted-foreground pt-4 text-xs text-center text-muted">
+			<div className="mt-28 border-t border-muted-foreground pt-4 text-xs text-center text-muted">
 				© {new Date().getFullYear()} Uidex. Todos os direitos reservados.
 			</div>
 		</footer>
